@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+
+# Datos reales de donantes: no se suben al repositorio
+datos/
